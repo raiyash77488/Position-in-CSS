@@ -1,0 +1,65 @@
+.sibling-element{
+    padding: 10px;
+    background-color: aliceblue;
+    border: 1px solid red;
+
+}
+.main-element{
+    /*position: absolute;*/
+    position: fixed;
+    left:30px;
+    bottom:10px;
+    background-color: yellow;
+    padding:10px;
+    
+}
+/*.parant-element{
+    position: relative;
+    height: 100px;
+    padding:10px;
+    background-color: aqua;
+}*/
+
+/*html{
+    height: 1000px;
+
+}*/
+
+div{
+    position:absolute;
+    width: 75px;
+    height: 75px;
+    border-radius: 10px;
+    color: white;
+    padding: 5px;
+}
+#first{
+    background-color: orange;
+    left: 10px;
+    top:10px;
+   
+    
+}
+
+#second{
+    background-color: green;
+    left: 30px;
+    top:30px;
+    
+    
+}
+
+#third{
+    background-color: black;
+    left: 50px;
+    top:50px;
+    
+}
+
+#fourth{
+    background-color: red;
+    left: 70px;
+    top:70px;
+   
+    
+}
